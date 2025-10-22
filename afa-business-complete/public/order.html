@@ -1,0 +1,60 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AFA Transfers — Order</title>
+<link rel="icon" href="/logo.png"><link rel="stylesheet" href="/assets/css/styles.css">
+<script defer src="/assets/js/i18n.js"></script>
+</head><body>
+<nav class="nav"><div class="container inner">
+  <div class="brand"><img src="/logo.png" alt="AFA"><div class="brand-name">AFA Transfers</div></div>
+  <div class="spacer"></div>
+  <div class="menu">
+    <a href="/about.html" data-i="nav.about">About</a>
+    <a href="/fleet.html" data-i="nav.fleet">Fleet</a>
+    <a href="/tours.html" data-i="nav.tours">Tours</a>
+    <a href="/order.html" data-i="nav.order">Order</a>
+    <a href="/contact.html" data-i="nav.contact">Contact</a>
+    <div class="lang" style="display:flex;gap:6px;margin-left:8px">
+      <button data-lang="lv">LV</button><button data-lang="ru">RU</button><button data-lang="en">EN</button>
+    </div>
+  </div>
+</div></nav>
+<section class="hero"><div class="container">
+  <h1 data-i="order.h">Order a transfer</h1>
+  <p class="lead" data-i="order.lead">Fill the form. Address fields offer suggestions. Choose a vehicle and add optional stops (+€24 each).</p>
+</div></section>
+<section class="section"><div class="container">
+  <form id="booking" class="form">
+    <div class="input"><label>Date</label><input id="date" name="date" type="date" required></div>
+    <div class="input"><label>Full name</label><input id="name" name="name" required></div>
+    <div class="input"><label>Flight</label><input id="flight" name="flight" placeholder="e.g. LH892"></div>
+    <div class="input"><label>Vehicle</label>
+      <select id="vehicle" name="vehicle" required>
+        <option value="">Select</option>
+        <option>E-Class</option>
+        <option>V-Class</option>
+        <option>S-Class</option>
+        <option>Volvo V60</option>
+        <option>BMW 3 GT</option>
+        <option>Sprinter</option>
+      </select>
+    </div>
+    <div class="input full"><label>Pickup address / hotel</label><div style="position:relative"><input id="pickup" name="pickup" autocomplete="off" required></div></div>
+    <div class="input full"><label>Destination / route</label><div style="position:relative"><input id="dropoff" name="dropoff" autocomplete="off" required></div></div>
+    <div class="input"><label>Passengers</label><select id="passengers" name="passengers"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8+</option></select></div>
+    <div class="input full"><label>Notes</label><textarea id="notes" name="notes" rows="3" placeholder="Stops, child seat, special requests"></textarea></div>
+    <div class="input full"><label>Stops (optional)</label><div id="stops"></div><div style="margin-top:8px"><button class="button alt" type="button" id="add-stop">+ Add stop</button></div><p class="meta">Each stop adds €24 to the estimate.</p></div>
+    <div class="input full est">
+      <h4 style="margin:0 0 8px 0" data-i="order.estimate">Estimate</h4>
+      <div id="distance-hint" class="meta" data-i="order.distance_hint">Enter pickup & drop-off to see distance.</div>
+      <div id="est-distance" class="meta" style="margin-top:4px" data-i="order.distance_hint">Enter pickup & drop-off to see distance.</div>
+      <div id="est-prices" class="grid" style="margin-top:10px"></div>
+      <div class="meta" style="margin-top:6px" data-i="order.final_note">Final price will be confirmed by email.</div>
+    </div>
+    <div class="input full" style="display:flex;gap:10px;align-items:center">
+      <button class="button gold" type="submit">Submit request</button>
+      <span id="toast" class="meta"></span>
+    </div>
+  </form>
+</div></section>
+<script defer src="/assets/js/order.js"></script>
+<footer class="footer"><div class="container">© 2025 AFA Transfers · <a href="https://instagram.com/afatransfers" target="_blank" rel="noopener">Instagram</a></div></footer></body></html>

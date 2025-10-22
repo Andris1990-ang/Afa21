@@ -1,0 +1,170 @@
+{
+  "en": {
+    "brand": "AFA Transfers",
+    "nav": {
+      "about": "About",
+      "fleet": "Fleet",
+      "tours": "Tours",
+      "order": "Order",
+      "contact": "Contact"
+    },
+    "home": {
+      "eyebrow": "Business transfers",
+      "title": "Business transfers across Riga and the Baltics.",
+      "lead": "Mercedes-Benz sedans & vans, plus Volvo V60 and BMW 3 GT. Professional chauffeurs. Fixed quotes & invoices."
+    },
+    "about": {
+      "h": "About us",
+      "who": "AFA Transfers provides reliable business transfers, point-to-point rides and custom day trips across Latvia and the Baltics. We serve hotels, companies, embassies and private travellers who value comfort, discretion and punctuality.",
+      "offer": "• Airport transfers (RIX) with meet & greet and flight monitoring\n• Business travel in Riga and intercity routes (LV, LT, EE)\n• Hourly disposal for meetings, events and delegations\n• Private tours — curated itineraries with flexible stops\n• Invoices, card payments and long-term contracts on request",
+      "drivers": "All chauffeurs are experienced, English-speaking professionals. Vehicles are clean, comfortable and maintained to high standards."
+    },
+    "fleet": {
+      "h": "Our Fleet",
+      "desc": {
+        "e": "Business sedan for 1–3 passengers with 2 bags.",
+        "v": "Executive van for 1–7 passengers, generous luggage.",
+        "s": "Luxury sedan for 1–3 passengers, top comfort.",
+        "volvo": "Business estate, spacious luggage.",
+        "bmw": "Gran Turismo liftback, roomy & comfy.",
+        "spr": "Minicoach for 8–16 passengers (on request)."
+      },
+      "price": {
+        "e": "from €40",
+        "v": "from €50",
+        "s": "from €70",
+        "volvo": "from €40",
+        "bmw": "from €40",
+        "spr": "from €95"
+      }
+    },
+    "tours": {
+      "h": "Baltic Tours",
+      "lead": "Riga-based day trips and intercity tours. Add a tour as your destination on the Order page.",
+      "cta": "Request this tour"
+    },
+    "order": {
+      "h": "Order a transfer",
+      "lead": "Fill the form. Address fields offer suggestions. Choose a vehicle and add optional stops (+€24 each).",
+      "estimate": "Estimate",
+      "distance_hint": "Enter pickup & drop-off to see distance.",
+      "final_note": "Final price will be confirmed by email."
+    },
+    "contact": {
+      "h": "Contact",
+      "p": "24/7. Call or WhatsApp."
+    }
+  },
+  "lv": {
+    "brand": "AFA Transfers",
+    "nav": {
+      "about": "Par mums",
+      "fleet": "Autoparks",
+      "tours": "Tūres",
+      "order": "Pasūtīt",
+      "contact": "Kontakti"
+    },
+    "home": {
+      "eyebrow": "Biznesa transfēri",
+      "title": "Biznesa transfēri Rīgā un Baltijā.",
+      "lead": "Mercedes-Benz sedani un busi, kā arī Volvo V60 un BMW 3 GT. Profesionāli šoferi. Fiksētas cenas un rēķini."
+    },
+    "about": {
+      "h": "Par mums",
+      "who": "AFA Transfers nodrošina uzticamus biznesa transfērus, braucienus no punkta A uz B un pielāgotas dienas tūres pa Latviju un Baltiju. Mūs izvēlas viesnīcas, uzņēmumi, vēstniecības un privātceļotāji, kuri novērtē komfortu, diskrētumu un punktualitāti.",
+      "offer": "• Lidostas (RIX) transfēri ar sagaidīšanu un reisu uzraudzību\n• Biznesa braucieni Rīgā un starppilsētu maršruti (LV, LT, EE)\n• Stundas noma sanāksmēm, pasākumiem un delegācijām\n• Privātās tūres — maršruti ar elastīgām pieturām\n• Rēķini, karšu maksājumi un ilgtermiņa līgumi pēc pieprasījuma",
+      "drivers": "Šoferi ir pieredzējuši, pieklājīgi un runā angliski. Auto ir tīri, ērti un labi uzturēti."
+    },
+    "fleet": {
+      "h": "Autoparks",
+      "desc": {
+        "e": "Biznesa sedans 1–3 pasažieriem, 2 somas.",
+        "v": "Executive busiņš 1–7 pasažieriem, daudz bagāžas.",
+        "s": "Premium sedans 1–3 pasažieriem, maksimāls komforts.",
+        "volvo": "Biznesa universālis ar plašu bagāžnieku.",
+        "bmw": "Gran Turismo liftbacks, ērts un ietilpīgs.",
+        "spr": "Minibuss 8–16 pasažieriem (pēc pieprasījuma)."
+      },
+      "price": {
+        "e": "no €40",
+        "v": "no €50",
+        "s": "no €70",
+        "volvo": "no €40",
+        "bmw": "no €40",
+        "spr": "no €95"
+      }
+    },
+    "tours": {
+      "h": "Baltijas tūres",
+      "lead": "Dienas braucieni un starppilsētu tūres no Rīgas. Pievieno tūri kā galamērķi pasūtījumā.",
+      "cta": "Pieteikt tūri"
+    },
+    "order": {
+      "h": "Pasūtīt transfēru",
+      "lead": "Aizpildi formu. Adrešu laukiem ir ieteikumi. Izvēlies auto un, ja vajag, pievieno pieturas (+€24 katra).",
+      "estimate": "Aptuvenā cena",
+      "distance_hint": "Ievadi izbraukšanu un galamērķi, lai redzētu attālumu.",
+      "final_note": "Gala cena tiks apstiprināta e-pastā."
+    },
+    "contact": {
+      "h": "Kontakti",
+      "p": "24/7. Zvani vai WhatsApp."
+    }
+  },
+  "ru": {
+    "brand": "AFA Transfers",
+    "nav": {
+      "about": "О компании",
+      "fleet": "Автопарк",
+      "tours": "Туры",
+      "order": "Заказ",
+      "contact": "Контакты"
+    },
+    "home": {
+      "eyebrow": "Бизнес-трансферы",
+      "title": "Бизнес-трансферы в Риге и по Балтии.",
+      "lead": "Седаны и микроавтобусы Mercedes-Benz, а также Volvo V60 и BMW 3 GT. Профессиональные водители. Фиксированные цены и счета."
+    },
+    "about": {
+      "h": "О компании",
+      "who": "AFA Transfers — надежные бизнес-трансферы, поездки A→B и индивидуальные туры по Латвии и Балтии. Нас выбирают отели, компании, посольства и частные клиенты, ценящие комфорт, конфиденциальность и пунктуальность.",
+      "offer": "• Трансферы в аэропорт RIX со встречей и мониторингом рейса\n• Деловые поездки по Риге и между городами (LV, LT, EE)\n• Почасовая аренда для встреч, мероприятий и делегаций\n• Частные туры — маршруты с гибкими остановками\n• Счета, оплата картой и долгосрочные договоры по запросу",
+      "drivers": "Опытные, вежливые водители, говорящие по‑английски. Автомобили чистые, комфортные, хорошо обслуживаются."
+    },
+    "fleet": {
+      "h": "Наш автопарк",
+      "desc": {
+        "e": "Бизнес-седан на 1–3 пассажира, 2 чемодана.",
+        "v": "Микроавтобус на 1–7 пассажиров, много багажа.",
+        "s": "Премиум-седан на 1–3 пассажира, максимум комфорта.",
+        "volvo": "Бизнес‑универсал с большим багажником.",
+        "bmw": "Gran Turismo лифтбэк, просторно и удобно.",
+        "spr": "Минибас на 8–16 пассажиров (по запросу)."
+      },
+      "price": {
+        "e": "от €40",
+        "v": "от €50",
+        "s": "от €70",
+        "volvo": "от €40",
+        "bmw": "от €40",
+        "spr": "от €95"
+      }
+    },
+    "tours": {
+      "h": "Туры по Балтии",
+      "lead": "Однодневные поездки и межгородские туры из Риги. Добавьте тур как пункт назначения при заказе.",
+      "cta": "Заказать тур"
+    },
+    "order": {
+      "h": "Заказать трансфер",
+      "lead": "Заполните форму. Подсказки адресов. Выберите авто и при необходимости добавьте остановки (+€24 каждая).",
+      "estimate": "Оценка",
+      "distance_hint": "Введите адреса, чтобы увидеть расстояние.",
+      "final_note": "Итоговая цена будет подтверждена по email."
+    },
+    "contact": {
+      "h": "Контакты",
+      "p": "Круглосуточно. Звоните или WhatsApp."
+    }
+  }
+}
